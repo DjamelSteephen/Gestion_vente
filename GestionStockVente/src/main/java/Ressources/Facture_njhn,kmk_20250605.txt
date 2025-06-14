@@ -1,0 +1,9 @@
+=== FACTURE ===
+Client        : njhn,kmk
+Date commande : 2025-06-05
+
+Produit                   P. Unitaire Quantité   Sous-total
+----------------------------------------------------
+mekele                    200,00     4          800,00    
+----------------------------------------------------
+TOTAL FACTURE : 800,00 FCFA

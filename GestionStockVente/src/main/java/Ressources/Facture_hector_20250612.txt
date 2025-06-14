@@ -1,0 +1,9 @@
+=== FACTURE ===
+Client        : hector
+Date commande : 2025-06-12
+
+Produit                   P. Unitaire Quantité   Sous-total
+----------------------------------------------------
+amoxicillin               200,00     3          600,00    
+----------------------------------------------------
+TOTAL FACTURE : 600,00 FCFA

@@ -1,0 +1,9 @@
+=== FACTURE ===
+Client        : djamel
+Date commande : 2025-06-05
+
+Produit                   P. Unitaire Quantité   Sous-total
+----------------------------------------------------
+Paracetamol               100,00     10         1000,00   
+----------------------------------------------------
+TOTAL FACTURE : 1000,00 FCFA

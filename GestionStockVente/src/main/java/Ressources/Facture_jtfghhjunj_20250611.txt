@@ -1,0 +1,9 @@
+=== FACTURE ===
+Client        : jtfghhjunj
+Date commande : 2025-06-11
+
+Produit                   P. Unitaire Quantité   Sous-total
+----------------------------------------------------
+PARACETAMOL               1500,00    15         22500,00  
+----------------------------------------------------
+TOTAL FACTURE : 22500,00 FCFA

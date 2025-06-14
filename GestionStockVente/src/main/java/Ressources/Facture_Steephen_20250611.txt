@@ -1,0 +1,9 @@
+=== FACTURE ===
+Client        : Steephen
+Date commande : 2025-06-11
+
+Produit                   P. Unitaire Quantité   Sous-total
+----------------------------------------------------
+Antibiotique              150,00     10         1500,00   
+----------------------------------------------------
+TOTAL FACTURE : 1500,00 FCFA

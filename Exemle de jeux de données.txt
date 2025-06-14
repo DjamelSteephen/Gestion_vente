@@ -1,0 +1,57 @@
+-----------Login----------
+
+	Dans le champ Identifiant taper "steph"
+	Dans le champ Mot de passe taper "root"	
+	Cliquer sur "LOGIN"
+
+
+
+-----------Produit----------
+Nom du produit:PARACETAMOL
+Catégorie:antalgique
+Prix Unitaire:200
+Quantité en stock:20
+
+	Cliquer sur "Ajouter" puis "Retour a l'accueil"
+
+
+-----------Commande----------
+Client: Sawadogo Franck
+Produit:PARACETAMOL
+Quantité voulue:15
+
+	Cliquer sur "Ajouter" 
+	Sélectionner  la ligne de la commande
+	Cliquer sur "Valider"
+        Cliquer sur "Retour a l'accueil"
+
+
+-----------Vente----------
+
+	Sélectionner  la ligne de la vente
+	Cliquer sur "Vendre"
+        Cliquer sur "Retour"
+
+
+-----------Facture----------
+ 
+	Sélectionner  la ligne de la facture correspondante a la vente
+	Cliquer sur "Générer la facture sélectionner"
+        Cliquer pour sortir
+	Aller dans "C:\...\Gestion_Vente\GestionStockVente\src\main\java\Ressources" pour voir effectivement la facture
+
+
+-----------Report----------
+
+	-Montre le chiffre d'affaire total
+	-Top 5 des produits les plus vendus
+	-Stock actuel des produits
+
+
+
+
+
+
+
+
+
