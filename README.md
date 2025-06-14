@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [architecture.txt](https://github.com/user-attachments/files/20626841/architecture.txt)
 # Gestion de stock et de vente
 
@@ -133,3 +134,6 @@ Génération de factures
 POUYA BORIS HECTOR – développeur Java
 
 ZONGO DJAMEL STEEPHEN – développeur Java
+=======
+# Gestion_vente
+>>>>>>> 4e13b46cec39e64c60119a87036582dabc0623de
