@@ -127,7 +127,9 @@ Calculs de totaux
 
 Génération de factures
 
-
+💡  Execution de l'application
+>>>cd "cd "C:...\Gestion_vente-main\GestionStockVente"
+>>>mvn clean compile exec:java
 
 👥 Auteurs
 
