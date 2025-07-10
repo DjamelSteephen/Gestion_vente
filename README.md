@@ -129,7 +129,7 @@ Génération de factures
 
 💡  Execution de l'application
 
-cd "cd "C:...\Gestion_vente-main\GestionStockVente"
+cd "C:...\Gestion_vente-main\GestionStockVente"
 
 mvn clean compile exec:java
 
@@ -138,6 +138,7 @@ mvn clean compile exec:java
 POUYA BORIS HECTOR – développeur Java
 
 ZONGO DJAMEL STEEPHEN – développeur Java
+
 =======
 # Gestion_vente
 >>>>>>> 4e13b46cec39e64c60119a87036582dabc0623de
